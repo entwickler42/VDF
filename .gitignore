@@ -1,0 +1,46 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Local development settings
+.env
+.envrc
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.atom/
+.project
+.pydevproject
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Project specific
+# Add any project-specific patterns here 
